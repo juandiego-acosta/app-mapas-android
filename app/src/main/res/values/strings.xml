@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Mapas</string>
+    <string name="type">Tipos de Mapa</string>
+    <string name="estandar">Estandar</string>
+    <string name="satelite">Satélite</string>
+    <string name="hibrida">Hibrida</string>
+    <string name="poli">Polilinea</string>
+    <string name="title_activity_maps">Mapa (Práctica 7)</string>
+
+    <string name="route_api">Ruta con API (Método 1)</string>
+    <string name="route_intent">Ruta con Intent (Método 2)</string>
+    <string name="title_activity_directions_api">Ruta con API</string>
+    <string name="title_activity_intent_maps">Ruta con Intent</string>
+    <string name="origin">Origen (Ej: CETI Colomos)</string>
+    <string name="destination">Destino (Ej: CETI Tonalá)</string>
+    <string name="launch_route">Trazar ruta en Google Maps</string>
+    <string name="sensors">Sensores (Luz y Giroscopio)</string>
+    <string name="title_activity_sensors">Práctica 9: Sensores</string>
+    <string name="light_sensor_title">Sensor de Luz</string>
+    <string name="gyro_sensor_title">Giroscopio</string>
+    <string name="light_data_placeholder">Luz: 0.0 lux</string>
+    <string name="gyro_data_placeholder">Giroscopio: (datos)</string>
+</resources>
